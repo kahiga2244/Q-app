@@ -2,7 +2,10 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 .row {
     margin: 0px;
+    padding-top: 5px;
 }
 body {
-    font-family: Verdana;
+    font-family: Monospace;
+    background-image: url("https://mdbootstrap.com/img/new/slides/041.jpg");
+    background-position: center;
 }
