@@ -10,7 +10,7 @@ export class QuoteComponent implements OnInit {
 
     quotes = [
         new Quote(1,'Everything negative - pressure, challenges - is all an opportunity for me to rise', 'Kobe','Mitch', new Date(),0,0,0,false),
-        new Quote(2, 'Youth you are the future and the presenr', 'Barrack Obama','Alice',new Date(),0,0,0,false),
+        new Quote(2, 'Youth you are the future and the present', 'Barrack Obama','Alice',new Date(),0,0,0,false),
        
 
     ]
